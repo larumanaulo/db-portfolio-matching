@@ -3,7 +3,7 @@
 
 ## Solution
 
-The solution revolves around splitting the second portfolio property list properties in batches and for each batch we analise chunks from the first portfolio. It basically compares each property from portfolio2 to all the properties in portfolio 1 but in batches and chunks of properties at the time. 
+The solution revolves around splitting the second portfolio property list in batches and for each batch we analise chunks from the first portfolio. It basically compares each property from portfolio2 to all the properties in portfolio 1 but in batches and chunks of properties at the time. 
 The main reason why I have went with splitting it in multiple paralell execution blocks is for it to be able to support long property lists without the risk of reaching API request limits and LLM Input token limitations.
 
 The program could benefit from refactoring and some things arte overcomplicated, but that's mainly because I have user code generating LLM to create some tools fast. Tools like in data_utils.py.
