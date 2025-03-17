@@ -1,0 +1,504 @@
+{
+    "portfolio1": {
+      "properties": [
+    {
+      "description": "Commercial Estate, 45k sqm with pond",
+      "limit": "630000",
+      "mortgageAmount": "5200000"
+    },
+    {
+      "description": "Residence - 4 bedrooms and 1 and 1/2 bathrooms",
+      "limit": "650000",
+      "mortgageAmount": "5000000"
+    },
+    {
+      "description": "Downtown Commercial Office Space",
+      "limit": "1200000",
+      "mortgageAmount": "850000"
+    },
+    {
+      "description": "Gardens and Recreation Area",
+      "limit": "350000",
+      "mortgageAmount": "200000"
+    },
+    {
+      "description": "Retail Store with Storage",
+      "limit": "850000",
+      "mortgageAmount": "600000"
+    },
+    {
+      "description": "Industrial Warehouse",
+      "limit": "1500000",
+      "mortgageAmount": "1100000"
+    },
+    {
+      "description": "Single Family Home with 3 bedrooms and 2 bathrooms",
+      "limit": "four hundrend & fifty thousand",
+      "mortgageAmount": "320000"
+    },
+    {
+      "description": "Waterfront Vacation Property",
+      "limit": "750000",
+      "mortgageAmount": "550000"
+    },
+    {
+      "description": "Historic Restaurant Building",
+      "limit": "950000",
+      "mortgageAmount": "700000"
+    },
+    {
+      "description": "Multi-unit Residential Complex",
+      "limit": "2500000",
+      "mortgageAmount": "1800000"
+    },
+    {
+      "description": "Luxury Apartment Complex",
+      "limit": "950000",
+      "mortgageAmount": "750000"
+  },
+  {
+      "description": "Suburban Family Home - 3BR/2BA",
+      "limit": "300000",
+      "mortgageAmount": "200000"
+  },
+  {
+      "description": "Industrial Storage Facility",
+      "limit": "2200000",
+      "mortgageAmount": "1800000"
+  },
+  {
+      "description": "Retail Plaza with Parking",
+      "limit": "1.2M",
+      "mortgageAmount": "950000"
+  },
+  {
+      "description": "Downtown High-Rise Office",
+      "limit": "5000000",
+      "mortgageAmount": "4000000"
+  },
+  {
+      "description": "Lakeside Vacation Home",
+      "limit": "700K",
+      "mortgageAmount": "500000"
+  },
+  {
+      "description": "Warehouse and Distribution Center",
+      "limit": "two million dollars",
+      "mortgageAmount": "1500000"
+  },
+  {
+      "description": "Multi-Family Apartment Building",
+      "limit": "1.8M",
+      "mortgageAmount": "1300000"
+  },
+  {
+      "description": "Seaside Resort Property",
+      "limit": "1.5M",
+      "mortgageAmount": "1100000"
+  },
+  {
+      "description": "Luxury Condo Overlooking City",
+      "limit": "900K",
+      "mortgageAmount": "700000"
+  },
+  {
+      "description": "Gated Community House - 5BR",
+      "limit": "1.3M",
+      "mortgageAmount": "1000000"
+  },
+  {
+      "description": "Corporate Headquarters Building",
+      "limit": "2.5M",
+      "mortgageAmount": "2000000"
+  },
+  {
+      "description": "Medical Research Facility",
+      "limit": "2.8M",
+      "mortgageAmount": "2200000"
+  },
+  {
+      "description": "Eco-Friendly Smart Home",
+      "limit": "750000",
+      "mortgageAmount": "600000"
+  },
+  {
+      "description": "Log Cabin with Waterfront View",
+      "limit": "600000",
+      "mortgageAmount": "400000"
+  },
+  {
+      "description": "Technology Hub and Office Spaces",
+      "limit": "3.4M",
+      "mortgageAmount": "2500000"
+  },
+  {
+      "description": "Entertainment Complex",
+      "limit": "4.2M",
+      "mortgageAmount": "3000000"
+  },
+  {
+      "description": "Mixed-Use Tower with Retail and Residential",
+      "limit": "3.6M",
+      "mortgageAmount": "2800000"
+  },
+  {
+      "description": "Luxury Beachfront Villa",
+      "limit": "2.2M",
+      "mortgageAmount": "1700000"
+  },
+  {
+    "description": "Luxury Downtown Apartment",
+    "limit": "1.4M",
+    "mortgageAmount": "1.1M"
+},
+{
+    "description": "Suburban Family Home - 5BR/4BA",
+    "limit": "950000",
+    "mortgageAmount": "750000"
+},
+{
+    "description": "Industrial Complex with Office Space",
+    "limit": "3.2M",
+    "mortgageAmount": "2.7M"
+},
+{
+    "description": "Seaside Luxury Resort",
+    "limit": "5.1M",
+    "mortgageAmount": "4.5M"
+},
+{
+    "description": "Modern Smart Home - Solar Panels",
+    "limit": "1.2M",
+    "mortgageAmount": "950000"
+},
+{
+    "description": "Historic City Hall Building",
+    "limit": "2.3M",
+    "mortgageAmount": "1.9M"
+},
+{
+    "description": "Tech Startup Office Hub",
+    "limit": "4.0M",
+    "mortgageAmount": "3.4M"
+},
+{
+    "description": "Mountain Cabin with Private Lake",
+    "limit": "1.7M",
+    "mortgageAmount": "1.3M"
+},
+{
+    "description": "Retail Plaza with Entertainment Center",
+    "limit": "3.6M",
+    "mortgageAmount": "3.0M"
+},
+{
+    "description": "Private Jet Hangar and Lounge",
+    "limit": "6.5M",
+    "mortgageAmount": "5.5M"
+},
+{
+    "description": "Country Home with Horse Barn",
+    "limit": "1.9M",
+    "mortgageAmount": "1.5M"
+},
+{
+    "description": "High-Rise Condo - City View",
+    "limit": "1.6M",
+    "mortgageAmount": "1.2M"
+},
+{
+    "description": "Private Health and Wellness Spa",
+    "limit": "3.4M",
+    "mortgageAmount": "2.8M"
+},
+{
+    "description": "Urban Green Building - Solar Powered",
+    "limit": "2.1M",
+    "mortgageAmount": "1.8M"
+},
+{
+    "description": "Shopping Mall with Cinemas",
+    "limit": "5.0M",
+    "mortgageAmount": "4.2M"
+},
+{
+    "description": "Business Park with Multiple Offices",
+    "limit": "3.8M",
+    "mortgageAmount": "3.1M"
+},
+{
+    "description": "Downtown Skyscraper - Office Space",
+    "limit": "4.9M",
+    "mortgageAmount": "4.2M"
+},
+{
+    "description": "Exclusive Island Retreat",
+    "limit": "7.2M",
+    "mortgageAmount": "6.0M"
+},
+{
+    "description": "Multi-Use Commercial Property",
+    "limit": "3.5M",
+    "mortgageAmount": "2.9M"
+},
+{
+    "description": "Private Beach House",
+    "limit": "2.5M",
+    "mortgageAmount": "2.1M"
+}
+  ]},
+    "portfolio2": {
+      "properties": [
+        {
+          "description": "Property, 2 hectares tree orchard",
+          "limit": "630000",
+          "mortgageAmount": "5200000"
+        },
+        {
+          "description": "Family Residence - 4BR/2BA",
+          "limit": "650000",
+          "mortgageAmount": "5000000"
+        },
+        {
+          "description": "Single Family Residence - 3BR/2BA",
+          "limit": "475000",
+          "mortgageAmount": "320000"
+        },
+        {
+          "description": "Beachfront Holiday Property",
+          "limit": "800000",
+          "mortgageAmount": "600000"
+        },
+        {
+          "description": "Downtown Office Complex",
+          "limit": "1250000",
+          "mortgageAmount": "900000"
+        },
+        {
+          "description": "Apartment Building Complex",
+          "limit": "2600000",
+          "mortgageAmount": "1900000"
+        },
+        {
+          "description": "Retail Storefront with Warehouse",
+          "limit": "900000",
+          "mortgageAmount": "650000"
+        },
+        {
+          "description": "Parks and Playground Areas",
+          "limit": "375000",
+          "mortgageAmount": "225000"
+        },
+        {
+          "description": "Golf Course Clubhouse",
+          "limit": "1800000",
+          "mortgageAmount": "1300000"
+        },
+        {
+          "description": "Marina Facility",
+          "limit": "2200000",
+          "mortgageAmount": "1600000"
+        },
+        {
+          "description": "Shopping Mall",
+          "limit": "5500000",
+          "mortgageAmount": "4000000"
+        },
+        {
+          "description": "Medical Office Building",
+          "limit": "3200000",
+          "mortgageAmount": "2400000"
+        },
+        {
+          "description": "Business Park with Multiple Offices",
+          "limit": "2.1M",
+          "mortgageAmount": "1600000"
+      },
+      {
+          "description": "City Penthouse Suite",
+          "limit": "1.3M",
+          "mortgageAmount": "1000000"
+      },
+      {
+          "description": "Retail Supermarket with Storage",
+          "limit": "950000",
+          "mortgageAmount": "800000"
+      },
+      {
+          "description": "Suburban Single Family House - 3BR/2BA",
+          "limit": "300000",
+          "mortgageAmount": "220000"
+      },
+      {
+          "description": "Industrial Warehouse and Offices",
+          "limit": "2.5M",
+          "mortgageAmount": "2000000"
+      },
+      {
+          "description": "Downtown Business Tower",
+          "limit": "4.8M",
+          "mortgageAmount": "3800000"
+      },
+      {
+          "description": "Luxury Ski Resort Property",
+          "limit": "1.7M",
+          "mortgageAmount": "1300000"
+      },
+      {
+          "description": "Warehouse Storage Unit",
+          "limit": "1.9M",
+          "mortgageAmount": "1400000"
+      },
+      {
+          "description": "Multi-Tenant Shopping Mall",
+          "limit": "5.3M",
+          "mortgageAmount": "4200000"
+      },
+      {
+          "description": "Medical Research Facility",
+          "limit": "2.8M",
+          "mortgageAmount": "2200000"
+      },
+      {
+          "description": "Luxury Golf Course Villa",
+          "limit": "2.9M",
+          "mortgageAmount": "2300000"
+      },
+      {
+          "description": "Historic Castle with 10 Acres",
+          "limit": "3.5M",
+          "mortgageAmount": "2900000"
+      },
+      {
+          "description": "Corporate Innovation Campus",
+          "limit": "4.0M",
+          "mortgageAmount": "3200000"
+      },
+      {
+          "description": "Large Distribution Center",
+          "limit": "3.8M",
+          "mortgageAmount": "2800000"
+      },
+      {
+          "description": "Modern Smart Office Space",
+          "limit": "2.2M",
+          "mortgageAmount": "1700000"
+      },
+      {
+          "description": "Large Residential Gated Estate",
+          "limit": "1.6M",
+          "mortgageAmount": "1300000"
+      },
+      {
+          "description": "High-Rise Business Tower",
+          "limit": "3.7M",
+          "mortgageAmount": "2900000"
+      },
+      {
+          "description": "Ski Resort with Private Chalets",
+          "limit": "4.5M",
+          "mortgageAmount": "3400000"
+      },
+      {
+          "description": "Eco-Sustainable Living Complex",
+          "limit": "3.0M",
+          "mortgageAmount": "2500000"
+      },
+      {
+        "description": "Private Vineyard with Tasting Room",
+        "limit": "2.6M",
+        "mortgageAmount": "2.1M"
+    },
+    {
+        "description": "Luxury Smart Villa - AI Integrated",
+        "limit": "2.1M",
+        "mortgageAmount": "1.7M"
+    },
+    {
+        "description": "Corporate Headquarters Tower",
+        "limit": "5.0M",
+        "mortgageAmount": "4.3M"
+    },
+    {
+        "description": "Private Golf Course and Clubhouse",
+        "limit": "4.6M",
+        "mortgageAmount": "3.9M"
+    },
+    {
+        "description": "Large Warehouse and Distribution Center",
+        "limit": "3.9M",
+        "mortgageAmount": "3.2M"
+    },
+    {
+        "description": "Private Airport with VIP Lounge",
+        "limit": "6.0M",
+        "mortgageAmount": "5.2M"
+    },
+    {
+        "description": "Luxury Boutique Hotel",
+        "limit": "5.4M",
+        "mortgageAmount": "4.5M"
+    },
+    {
+        "description": "Countryside Equestrian Estate",
+        "limit": "3.2M",
+        "mortgageAmount": "2.6M"
+    },
+    {
+        "description": "Retail Outlet and Shopping District",
+        "limit": "4.0M",
+        "mortgageAmount": "3.3M"
+    },
+    {
+        "description": "High-Tech Data Center",
+        "limit": "7.5M",
+        "mortgageAmount": "6.4M"
+    },
+    {
+        "description": "Penthouse in a Metropolitan City",
+        "limit": "2.3M",
+        "mortgageAmount": "1.8M"
+    },
+    {
+        "description": "Ski Lodge with Resort Facilities",
+        "limit": "3.9M",
+        "mortgageAmount": "3.3M"
+    },
+    {
+        "description": "Private Safari Resort",
+        "limit": "6.2M",
+        "mortgageAmount": "5.1M"
+    },
+    {
+        "description": "Eco-Friendly High-Rise Building",
+        "limit": "3.4M",
+        "mortgageAmount": "2.9M"
+    },
+    {
+        "description": "Multi-Level Parking Garage",
+        "limit": "2.1M",
+        "mortgageAmount": "1.7M"
+    },
+    {
+        "description": "Mixed-Use Community Development",
+        "limit": "3.7M",
+        "mortgageAmount": "3.1M"
+    },
+    {
+        "description": "Luxury Resort with Water Park",
+        "limit": "6.8M",
+        "mortgageAmount": "5.8M"
+    },
+    {
+        "description": "Automobile Showroom & Repair Facility",
+        "limit": "2.5M",
+        "mortgageAmount": "2.0M"
+    },
+    {
+        "description": "Modern Smart Apartment Complex",
+        "limit": "3.1M",
+        "mortgageAmount": "2.6M"
+    }
+      ]
+    }
+  }
