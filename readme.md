@@ -18,7 +18,6 @@ The program could benefit from refactoring and some things arte overcomplicated,
 ## Installation
 
  - Clone or download the repository
- - Download the code to your local machine and navigate to the project directory.
  - Create a virtual environment
  ```bash
  python -m venv env
